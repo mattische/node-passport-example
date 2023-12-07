@@ -5,7 +5,7 @@ var port = process.env.PORT || 8080;
 var flash = require('connect-flash');
 //logging
 var morgan = require('morgan');
-
+//skhijshkjshfkjsh
 //Passport
 var passport = require('passport');
 require('./passport/local')(passport); // pass passport for configuration
